@@ -1,5 +1,7 @@
 2026-09-10
 basis: total-return adjusted closes
-failures: ['XLK', 'XLC', 'XLI', 'XLV', 'XLE', 'XLU', 'XLF', 'XLY', 'XLP', 'XLB', 'XLRE', 'RSPT', 'RSPC', 'RSPN', 'RSPH', 'RSPG', 'RSPU', 'RSPF', 'RSPD', 'RSPS', 'RSPM', 'RSPR', 'RSP', 'SPY', 'VIX']
+primary: stockanalysis.com 5Y | fallback: yahoo chart v8
+failures: ['HY_OAS']
 lagging: {}
+shallow (<1000 rows, backtest limited): []
 cross_check_warnings: []
