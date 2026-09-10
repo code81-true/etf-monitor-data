@@ -1,0 +1,5 @@
+2026-09-10
+basis: total-return adjusted closes
+failures: ['XLK', 'XLC', 'XLI', 'XLV', 'XLE', 'XLU', 'XLF', 'XLY', 'XLP', 'XLB', 'XLRE', 'RSPT', 'RSPC', 'RSPN', 'RSPH', 'RSPG', 'RSPU', 'RSPF', 'RSPD', 'RSPS', 'RSPM', 'RSPR', 'RSP', 'SPY', 'VIX']
+lagging: {}
+cross_check_warnings: []
