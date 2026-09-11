@@ -1,0 +1,6 @@
+data/*.csv
+data_inputs_*.csv
+reports/
+log/
+__pycache__/
+*.pyc
